@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-diagramas2/static/css/main.0c7f3690.chunk.css",
+    "main.js": "/test-diagramas2/static/js/main.39ce1b71.chunk.js",
+    "main.js.map": "/test-diagramas2/static/js/main.39ce1b71.chunk.js.map",
+    "runtime-main.js": "/test-diagramas2/static/js/runtime-main.9c02f2a4.js",
+    "runtime-main.js.map": "/test-diagramas2/static/js/runtime-main.9c02f2a4.js.map",
+    "static/js/2.a5b1d2df.chunk.js": "/test-diagramas2/static/js/2.a5b1d2df.chunk.js",
+    "static/js/2.a5b1d2df.chunk.js.map": "/test-diagramas2/static/js/2.a5b1d2df.chunk.js.map",
+    "index.html": "/test-diagramas2/index.html",
+    "precache-manifest.0bb0f98b998c97b49c883c70e6bb19be.js": "/test-diagramas2/precache-manifest.0bb0f98b998c97b49c883c70e6bb19be.js",
+    "service-worker.js": "/test-diagramas2/service-worker.js",
+    "static/css/main.0c7f3690.chunk.css.map": "/test-diagramas2/static/css/main.0c7f3690.chunk.css.map",
+    "static/js/2.a5b1d2df.chunk.js.LICENSE.txt": "/test-diagramas2/static/js/2.a5b1d2df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c02f2a4.js",
+    "static/js/2.a5b1d2df.chunk.js",
+    "static/css/main.0c7f3690.chunk.css",
+    "static/js/main.39ce1b71.chunk.js"
+  ]
+}
